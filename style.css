@@ -1,0 +1,90 @@
+.Ears1{
+    border: 0.5px solid black;
+    height: 100px;
+    width: 70px;
+    border-radius: 100px;
+    background-color: pink;
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.Ears2{
+    border: 0.5px solid black;
+    height: 100px;
+    width: 70px;
+    border-radius: 100px;
+    background-color: pink;
+    margin-top: -100px;
+    margin-left: 280px;
+}
+.Face{
+    border: 0.5px solid black;
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+    background-color: pink;
+    margin-top: -80px;
+    margin-left: 85px;
+}
+.Eyes1{
+    border: 1px solid white;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 75px;
+    margin-left: 60px
+}
+.Eyes2{
+    border: 1px solid white;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: -62px;
+    margin-left: 175px;
+}
+#pupil1{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    background-color: black;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+#pupil2{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    background-color: black;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.Nose{
+    border: 1px solid black;
+    height: 60px;
+    width: 120px;
+    border-radius: 120px;
+    background-color: red;
+    margin-top: 30px;
+    margin-left: 85px;
+}
+#Nostril1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 10px
+}
+#Nostril2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: -42px;
+    margin-left: 65px
+}
